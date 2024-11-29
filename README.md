@@ -1,6 +1,7 @@
 ## Fall 2024 QAP 3
 
-This repository contains data for Keyin College Fall 2024 Software Development Semester 2. Below are some answers to questions noted on the provided document.
+This repository contains data for Keyin College Fall 2024 Software Development Semester 2. REMINDER: Run 'npm install' in the 'qap3' folder.
+Below are some answers to questions noted on the provided document.
 
 1. 20-30 hours total. Most of it was figuring out React, since it is very different to normal JavaScript in how it operates.
 
